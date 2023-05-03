@@ -1,7 +1,7 @@
 # MERN-Internship
 Documentation of time spent at Enxsys as a MERN Intern
 
-Day 1:
+### Day 1:
 
     Topics Covered: 
  	- Introduction (Environment Setup)
