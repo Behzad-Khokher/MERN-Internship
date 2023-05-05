@@ -10,11 +10,11 @@ Documentation of time spent at Enxsys as a MERN Intern
         
     - Learning Outcomes:
         - Learned about REST-APIs
-            - GET, POST, PUT, PATCH
+            - GET, POST, PUT, PATCH, DELETE
         - Implemented REST-APIs with(Basic):
-            - Router, Routers
+            - Routes, Routers
             - Controllers
             - Middleware
-        - Learned about POST MAP
+        - Learned about POST MAN
             - Created custom collection Bootcamps api calls
              
